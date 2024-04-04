@@ -9,7 +9,7 @@ import org.junit.Test;
 //Testes unitários de funcionamento da Calculadora
 public class CalculadoraTeste {
 
-	Calculadora calc = new Calculadora();
+	Calculadora cal = new Calculadora();
 	double resultCalc;
 	
 	//Teste de Getter e setter
